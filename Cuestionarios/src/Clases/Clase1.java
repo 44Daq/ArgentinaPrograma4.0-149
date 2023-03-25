@@ -7,7 +7,7 @@ public class Clase1 {
 	//y “b”. Su código puede arrancar (por ejemplo):
 		System.out.println("Punto 1a: " );
 		System.out.println("Los números entre a y b son: " );
-	    int a = 9;
+	    int a = 0;
 		int b = 14;
 	while(a <= b) {	
 	System.out.print(a + "-"); 
